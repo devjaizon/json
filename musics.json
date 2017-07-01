@@ -1,5 +1,4 @@
 [
-
 	{
 		"file": "https://archive.org/download/best-of-2017/2U.mp3",
 		"title": "2U",
@@ -131,14 +130,34 @@
 		"artist": "Camila Cabello"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Despacito%20Remix.mp3",
+		"title": "Despacito",
+		"artist": "Luis Fonsi ft Daddy Yankee & Justin Bieber"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Don%27t%20be%20Silly.mp3",
 		"title": "Don't Be Silly",
 		"artist": "Phillip Long"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Dont%20Let%20Me%20Down.mp3",
+		"title": "Don't Let Me Down",
+		"artist": "The Chainsmokers ft. Daya"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Elastic%20Heart%20%28feat.%20Shia%20LaBeouf%20%26%20Maddie%20Ziegler%29.mp3",
 		"title": "Elastic Heart",
 		"artist": "Sia (feat Shia La Beouf & Maddie Ziegler)"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Everyday.mp3",
+		"title": "Everyday",
+		"artist": "Ariana Grande ft. Future"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Faded.mp3",
+		"title": "Faded",
+		"artist": "Alan Walker"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/Fake%20Plastic%20Trees.mp3",
@@ -156,6 +175,11 @@
 		"artist": "Sia"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/First%20Time.mp3",
+		"title": "First Time",
+		"artist": "Kygo ft. Ellie Goulding"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Fix%20You.mp3",
 		"title": "Fix You",
 		"artist": "Coldplay"
@@ -166,9 +190,29 @@
 		"artist": "Pink"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Galway%20Girl.mp3",
+		"title": "Galway Girl",
+		"artist": "Ed Sheeran"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Get%20Right%20Witcha.mp3",
+		"title": "Get Right Witcha",
+		"artist": "Migos"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Good%20For%20You.mp3",
 		"title": "Good For You",
 		"artist": "Selena Gomez"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Good%20Goodbye.mp3",
+		"title": "Good Goodbye",
+		"artist": "Linkin Park ft. Pusha T & Stormzy"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Good%20Life.mp3",
+		"title": "Good Life",
+		"artist": "G-Eazy Kehlani"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/Goodbye%20My%20Lover.mp3",
@@ -186,6 +230,16 @@
 		"artist": "Aurora"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Happier.mp3",
+		"title": "Happier",
+		"artist": "Ed Sheeran"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Heavy%20.mp3",
+		"title": "Heavy",
+		"artist": "Linkin Park ft. Kiiara"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/High.mp3",
 		"title": "High",
 		"artist": "James Blunt"
@@ -201,6 +255,16 @@
 		"artist": "Damien Rice"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/I%20Don%e2%80%99t%20Wanna%20Live%20Forever.mp3",
+		"title": "I Don't Wanna Live Forever",
+		"artist": "ZAYN ft. Taylor Swift"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/I%20Got%20You.mp3",
+		"title": "I Got You",
+		"artist": "Bebe Rexha"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/IRememberYou.mp3",
 		"title": "I Remember You",
 		"artist": "Skidrow"
@@ -211,9 +275,9 @@
 		"artist": "Sia"
 	},
 	{
-		"file": "https://archive.org/download/JC_201706/IllStandByYou.mp3",
-		"title": "I'll Stan By You",
-		"artist": "The Pretenders"
+		"file": "https://archive.org/download/best-of-2017/I%20m%20the%20One.mp3",
+		"title": "I'm The One",
+		"artist": "DJ Khaled ft Justin Bieber, Quavo, Chance the Rapper & Lil Wayne"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/ImNotOk.mp3",
@@ -236,6 +300,11 @@
 		"artist": "Avril Lavigne"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Invisible.mp3",
+		"title": "Invisible",
+		"artist": "Linkin Park"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Iris.mp3",
 		"title": "Iris",
 		"artist": "Goo Goo Dolls"
@@ -249,6 +318,16 @@
 		"file": "https://archive.org/download/JC_201706/IsThereAnybodyOutThere.mp3",
 		"title": "Is There Anybody Out There",
 		"artist": "Secondhand Serenade"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Issues.mp3",
+		"title": "Issues",
+		"artist": "Julia Michaels"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/It%20Ain%20t%20Me.mp3",
+		"title": "It Ain't Me",
+		"artist": "Kygo ft. Selena Gomez"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/ItsNotOver.mp3",
@@ -266,6 +345,21 @@
 		"artist": "Pink (feat Nate Ruess)"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Know%20No%20Better.mp3",
+		"title": "Know No Better",
+		"artist": "Major Lazer ft. Travis Scott, Camila Cabello & Quavo"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Let%20Me%20Love%20You.mp3",
+		"title": "Let Me Love You",
+		"artist": "DJ Snake ft. Justin Bieber"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Light%20My%20Body%20Up.mp3",
+		"title": "Light My Body Up",
+		"artist": "David Guetta feat Nicki Minaj & Lil Wayne"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/LookWhatYouveDone.mp3",
 		"title": "Look What You've Done",
 		"artist": "Jet"
@@ -276,14 +370,49 @@
 		"artist": "Rhodes"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Love.mp3",
+		"title": "Love",
+		"artist": "Lana Del Rey"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Lucky.mp3",
 		"title": "Lucky",
 		"artist": "Aurora"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Lust%20For%20Life.mp3",
+		"title": "Lust For Life",
+		"artist": "Lana Del Rey ft. The Weeknd"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Malibu%20Official%20Video.mp3",
+		"title": "Malibu",
+		"artist": "Miley Cyrus"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Mama.mp3",
+		"title": "Mama",
+		"artist": "Jonas Blue ft. William Singe"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Maybe.mp3",
 		"title": "Maybe",
 		"artist": "Secondhand Serenade"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Mercy.mp3",
+		"title": "Mercy",
+		"artist": "Shawn Mendes"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Most%20Girls.mp3",
+		"title": "Most Girls",
+		"artist": "Hailee Steinfeld"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Moving%20On.mp3",
+		"title": "Moving On",
+		"artist": "Marshmello"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/MurderSong54321acoustic.mp3",
@@ -306,9 +435,19 @@
 		"artist": "Secondhand Serenade"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Nights%20With%20You.mp3",
+		"title": "Nights With You",
+		"artist": "MØ"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/NoBravery.mp3",
 		"title": "No Bravery",
 		"artist": "JamesBlunt"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/No%20Frauds.mp3",
+		"title": "No Frauds",
+		"artist": "Nicki Minaj ft. Drake & Lil Wayne"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/NoOnesGonnaLoveYou.mp3",
@@ -316,9 +455,29 @@
 		"artist": "Band Of Horses"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/No%20Promises.mp3",
+		"title": "No Promises",
+		"artist": "Cheat Codes ft. Demi Lovato"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/NoSurprises.mp3",
 		"title": "No Surprises",
 		"artist": "Radiohead"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Now%20Or%20Never.mp3",
+		"title": "Now Or Never",
+		"artist": "Halsey"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/OK.mp3",
+		"title": "OK",
+		"artist": "Robin Schulz ft. James Blunt"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Paris.mp3",
+		"title": "Paris",
+		"artist": "The Chainsmokers"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/PleaseDontLeaveMe.mp3",
@@ -329,6 +488,21 @@
 		"file": "https://archive.org/download/JC_201706/RaiseYourLove.mp3",
 		"title": "Raise Your Love",
 		"artist": "Rhodes"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Reminder.mp3",
+		"title": "Reminder",
+		"artist": "The Weeknd"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Rockabye.mp3",
+		"title": "Rockabye",
+		"artist": "Clean Bandit ft. Sean Paul & Anne-Marie"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Rolex.mp3",
+		"title": "Rolex",
+		"artist": "Ayo & Teo"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/Run.mp3",
@@ -356,9 +530,39 @@
 		"artist": "Matthew Perryman Jones"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Say%20You%20Wont%20Let%20Go.mp3",
+		"title": "Say You Won't Let Go",
+		"artist": "James Arthur"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Scared%20To%20Be%20Lonely.mp3",
+		"title": "Scared To Be Lonely",
+		"artist": "Martin Garrix ft. Dua Lipa"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Shadows.mp3",
 		"title": "Shadows",
 		"artist": "Fox"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Side%20To%20Side.mp3",
+		"title": "Side To Side",
+		"artist": "Ariana Grande ft. Nicki Minaj"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Sign%20of%20the%20Times.mp3",
+		"title": "Sign Of The Times",
+		"artist": "Harry Styles"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Slippery.mp3",
+		"title": "Slippery",
+		"artist": "Migos ft. Gucci Mane"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Slow%20Hands.mp3",
+		"title": "Slow Hands",
+		"artist": "Niall Horan"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/Sober.mp3",
@@ -371,6 +575,21 @@
 		"artist": "Rhodes"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Something%20Just%20Like%20This.mp3",
+		"title": "Something Just Like This",
+		"artist": "The Chainsmokers ft. Coldplay"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Stay%20Together.mp3",
+		"title": "Stay Together",
+		"artist": "Noah Cyrus"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Stay.mp3",
+		"title": "Stay",
+		"artist": "Zedd ft. Alessia Cara"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/StraightFromTheHeart.mp3",
 		"title": "Straight From The Heart",
 		"artist": "Bryan Adams"
@@ -381,9 +600,19 @@
 		"artist": "Secondhand Serenade"
 	},
 	{
-		"file": "https://archive.org/download/JC_201706/ThatIWouldBeGood.mp3",
-		"title": "That I Would Be Good",
-		"artist": "Alanis Morissette"
+		"file": "https://archive.org/download/best-of-2017/Symphony.mp3",
+		"title": "Symphony",
+		"artist": "Clean Bandit ft. Zara Larsson"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/S%c3%babeme%20La%20Radio.mp3",
+		"title": "Súbeme La Radio",
+		"artist": "Enrique Iglesias ft. Descemer Bueno & Zion Lennox"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/That%e2%80%99s%20What%20I%20Like.mp3",
+		"title": "That's What I Like",
+		"artist": "Bruno Mars"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/TheBox.mp3",
@@ -391,9 +620,19 @@
 		"artist": "Damien Rice"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/The%20Cure.mp3",
+		"title": "The Cure",
+		"artist": "Lady Gaga"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/TheFuneral.mp3",
 		"title": "The Funeral",
 		"artist": "Band Of Horses"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/The%20Greatest.mp3",
+		"title": "The Greatest",
+		"artist": "Sia"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/TheScientist.mp3",
@@ -401,9 +640,39 @@
 		"artist": "Coldplay"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/The%20Way%20I%20Are.mp3",
+		"title": "The Way I Are",
+		"artist": "Bebe Rexha  ft. Lil Wayne"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/There%20For%20You.mp3",
+		"title": "There For You",
+		"artist": "Martin Garrix ft. Troye Sivan"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/ThinkingOutLoud.mp3",
 		"title": "Thinking Out Loud",
 		"artist": "Ed Sheeran"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Thunder.mp3",
+		"title": "Thunder",
+		"artist": "Imagine Dragons"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Tired.mp3",
+		"title": "Tired",
+		"artist": "Alan Wake"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Treat%20You%20Better.mp3",
+		"title": "Tret You Better",
+		"artist": "Shawn Mendes"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Twenty%20one%20Pilots.mp3",
+		"title": "Twenty One Pilots",
+		"artist": "Heathens"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/TwoIsBetterThanOne.mp3",
@@ -449,6 +718,11 @@
 		"file": "https://archive.org/download/JC_201706/YouIacousticVersion.m4a",
 		"title": "You And I (acoustic)",
 		"artist": "Secondhand Serenade"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Your%20Song.mp3",
+		"title": "Your Song",
+		"artist": "Rita Ora"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/YourSoul.m4a",
