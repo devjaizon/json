@@ -1,14 +1,49 @@
 [
 
 	{
+		"file": "https://archive.org/download/best-of-2017/2U.mp3",
+		"title": "2U",
+		"artist": "David Guetta ft Justin Bieber"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Alive.mp3",
 		"title": "Alive",
 		"artist": "Sia"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/All%20Time%20Low.mp3",
+		"title": "All Time Low",
+		"artist": "Jon Bellion"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Alone.mp3",
+		"title": "Alone",
+		"artist": "Alan Walker"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Animal.m4a",
 		"title": "Animal",
 		"artist": "Secondhand Serenade"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Attention.mp3",
+		"title": "Attention",
+		"artist": "Charlie Puth"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Bad%20Things.mp3",
+		"title": "Bad Things",
+		"artist": "Machine Gun Kelly ft. Camila Cabello"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Battle%20Symphony.mp3",
+		"title": "Battle Symphony",
+		"artist": "Linkin Park"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Believer.mp3",
+		"title": "Believer",
+		"artist": "Imagine Dragons"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/BigGirlsCry.mp3",
@@ -46,6 +81,11 @@
 		"artist": "James Blunt"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Castle%20On%20The%20Hill.mp3",
+		"title": "Castle On The Hill",
+		"artist": "Ed Sheeran"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Chances.mp3",
 		"title": "Chances",
 		"artist": "Athlete"
@@ -56,9 +96,19 @@
 		"artist": "Sia"
 	},
 	{
+		"file": "https://archive.org/download/best-of-2017/Closer.mp3",
+		"title": "Closer",
+		"artist": "The Chainsmokers ft. Halsey"
+	},
+	{
 		"file": "https://archive.org/download/JC_201706/Close%20Your%20Eyes.mp3",
 		"title": "Close Your Eyes",
 		"artist": "Rhodes"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Coachella%20-%20Woodstock%20In%20My%20Mind.mp3",
+		"title": "Coachella - Woodstock In My Mind",
+		"artist": "Lana Del Rey"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/Colour%20Me%20In.mp3",
@@ -74,6 +124,11 @@
 		"file": "https://archive.org/download/JC_201706/Conqueror.mp3",
 		"title": "Conqueror",
 		"artist": "Aurora"
+	},
+	{
+		"file": "https://archive.org/download/best-of-2017/Crying%20in%20the%20Club.mp3",
+		"title": "Crying In The Club",
+		"artist": "Camila Cabello"
 	},
 	{
 		"file": "https://archive.org/download/JC_201706/Don%27t%20be%20Silly.mp3",
