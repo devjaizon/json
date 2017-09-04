@@ -70,5 +70,10 @@
 	{
     	"file": "http://newcap.leanstream.co/CKWYFM-MP3?args=tunein_01",
     	"title": "Wayne FM"
+	},
+	{
+    	"file": "http://kit967.akacast.akamaistream.net/7/477/80875/v1/rogers.akacast.akamaistream.net/kit967",
+    	"title": "CHYM 96.7"
 	}
+	
 ]
