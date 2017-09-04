@@ -1,83 +1,65 @@
-[
-	{
-    	"file": "http://patmos.cdnstream.com:9300/live?cb=470833.mp3",
-    	"title": "Radio Free Brooklyn"
+[{
+		"file": "http://19353.live.streamtheworld.com:3690/977_90_SC",
+		"title": "90's Hits"
 	},
 	{
-    	"file": "http://listen.181fm.com/181-energy98_64k.aac?noPreRoll=true/;",
-    	"title": "181.FM Energy 98"
+		"file": "http://hestia.cdnstream.com/1566_128",
+		"title": "Amazing Lite Music"
 	},
 	{
-    	"file": "http://stream4.d3ep.com/",
-    	"title": "D3EP Radio Network"
+		"file": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws",
+		"title": "BBC World Service News"
 	},
 	{
-    	"file": "http://radio.housenationuk.com:9000/;",
-    	"title": "House Nation UK"
+		"file": "http://mbsradio.leanstream.co//CFCYFM-MP3?args=web_01",
+		"title": "CFCY"
 	},
 	{
-    	"file": "http://19353.live.streamtheworld.com:3690/977_HITS_SC",
-    	"title": ".977 Today's Hits"
+		"file": "http://kit967.akacast.akamaistream.net/7/477/80875/v1/rogers.akacast.akamaistream.net/kit967",
+		"title": "CHYM"
 	},
 	{
-    	"file": "http://s6.total-streaming.com:9328/;",
-    	"title": "Love Radio USA - 60 Years Of Love Songs"
+		"file": "http://listen.181fm.com/181-energy98_64k.aac?noPreRoll=true/;",
+		"title": "Energy 98"
 	},
 	{
-    	"file": "http://naxidigital-love128.streaming.rs:8100/;",
-    	"title": "Naxi Love Radio"
+		"file": "http://newcap.leanstream.co/VOCMFM-MP3?args=tunein_01",
+		"title": "K-ROCK"
 	},
 	{
-    	"file": "http://djboyradio.streamguys1.com/fedde-le-grand.aac",
-    	"title": "Fedde Le Grand Radio"
+		"file": "http://newcap.leanstream.co/CHSLFM-MP3?args=tunein_01",
+		"title": "Lake FM"
 	},
 	{
-    	"file": "http://djboyradio.streamguys1.com/sub-pop-records.mp3",
-    	"title": "Sub Pop Radio"
+		"file": "http://s6.total-streaming.com:9328/;",
+		"title": "Love Radio USA"
 	},
 	{
-    	"file": "http://19353.live.streamtheworld.com:3690/977_90_SC",
-    	"title": ".977 90's Hits"
+		"file": "http://naxidigital-love128.streaming.rs:8100/;",
+		"title": "Naxi Love Radio"
 	},
 	{
-    	"file": "http://listen.181fm.com/181-star90s_128k.mp3?noPreRoll=true",
-    	"title": "181.FM Star 90's"
+		"file": "http://patmos.cdnstream.com:9300/live?cb=470833.mp3",
+		"title": "Radio Free Brooklyn"
 	},
 	{
-    	"file": "http://hestia.cdnstream.com/1566_128",
-    	"title": "AmazingLiteMusic.com"
+		"file": "http://01.stmip.net:7904/;",
+		"title": "Radio Imperial FM"
 	},
 	{
-    	"file": "http://newcap.leanstream.co/VOCMFM-MP3?args=tunein_01",
-    	"title": "K-ROCK 97.5"
+		"file": "http://streaming.shoutcast.com/89FMARADIOROCK",
+		"title": "Rádio Rock"
 	},
 	{
-    	"file": "http://streaming.shoutcast.com/89FMARADIOROCK",
-    	"title": "89 FM A Rádio Rock"
+		"file": "http://listen.181fm.com/181-star90s_128k.mp3?noPreRoll=true",
+		"title": "Star 90's"
 	},
 	{
-    	"file": "http://01.stmip.net:7904/;",
-    	"title": "Radio Imperial FM"
+		"file": "http://19353.live.streamtheworld.com:3690/977_HITS_SC",
+		"title": "Today's Hits"
 	},
 	{
-    	"file": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws",
-    	"title": "BBC World Service News"
-	},
-	{
-    	"file": "http://newcap.leanstream.co/CHSLFM-MP3?args=tunein_01",
-    	"title": "Lake FM"
-	},
-	{
-    	"file": "http://newcap.leanstream.co/CKWYFM-MP3?args=tunein_01",
-    	"title": "Wayne FM"
-	},
-	{
-    	"file": "http://kit967.akacast.akamaistream.net/7/477/80875/v1/rogers.akacast.akamaistream.net/kit967",
-    	"title": "CHYM 96.7"
-	},
-	{
-    	"file": "http://mbsradio.leanstream.co//CFCYFM-MP3?args=web_01",
-    	"title": "CFCY 95.1"
+		"file": "http://newcap.leanstream.co/CKWYFM-MP3?args=tunein_01",
+		"title": "Wayne FM"
 	}
-	
 ]
