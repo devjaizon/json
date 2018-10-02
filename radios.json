@@ -34,6 +34,10 @@
 		"file": "http://s6.total-streaming.com:9328/;",
 		"title": "Love Radio USA"
 	},
+ 	{
+		"file": "http://glomes.sintonizar.radio.br:8088/glomesmfm/glomesmfm/icecast.audio;",
+		"title": "Morena FM"
+	},
 	{
 		"file": "http://naxidigital-love128.streaming.rs:8100/;",
 		"title": "Naxi Love Radio"
